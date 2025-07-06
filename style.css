@@ -254,6 +254,11 @@ body {
   border-color: #333333;
 }
 
+.config {
+  text-decoration: "underline";
+  color: #e2e8f0;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
   .container {
@@ -315,7 +320,7 @@ body {
     font-size: 1.5rem;
   }
 
-  .project-actions {
-    flex-direction: column;
-  }
+  /* .project-actions { */
+  /*   flex-direction: column; */
+  /* } */
 }
